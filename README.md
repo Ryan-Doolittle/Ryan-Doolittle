@@ -28,13 +28,13 @@ Progressive software development team member skilled at optimizing designs based
 
 ## Experience
 
-### Rater - TELUS Inc., Blue Springs, Missouri
+### Rater - TELUS Inc.
 - **Duration:** June 2023 - Current
 - **Responsibilities:**
   - Analyzing and providing feedback on text, web pages, images, and other types of information for leading search engines.
   - Reviewing the results returned in a specific search query and rating them in terms of relevance.
 
-### Software Developer - InterfaceYourself LLC, Blue Springs, Missouri
+### Software Developer
 - **Duration:** January 2018 - Current
 - **Responsibilities:**
   - Supported, maintained, documented, and enhanced software functionality.
