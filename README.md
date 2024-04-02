@@ -1,59 +1,17 @@
-# Ryan Doolittle
+# About Me
 
-## Professional Summary
-Progressive software development team member skilled at optimizing designs based on current and expected demands. Works effectively in high-pressure environments to meet challenging design standards and schedule targets. Expert in programming languages and design tools.
+Hello! I’m Ryan, a software developer with a fervent passion for technology and a knack for innovative problem-solving. My journey in the tech world is driven by a commitment to optimizing designs and exceeding the ever-evolving demands of the industry. I excel in high-pressure situations, delivering solutions that meet stringent design standards and tight schedules.
 
-## Skills
-- Data Structures and Algorithms
-- Software Development
-- Problem-Solving
-- Technology Integration
-- Product Management
-- Product Development
-- Code Debugging
-- Application Development
-- Code Review
-- Technical Analysis
-- Discord API
-- Testing and Debugging
-- Project Coordination
-- Python Development
-- SQL
-- C++
-- C#
-- Java Development
-- Graphic Design
-- 3D Modeling (Blender)
-- Special Effects (Affinity Photo)
+## My Journey
 
-## Experience
+I embarked on my professional path in software development in 2018 and have since immersed myself in various aspects of the field. At InterfaceYourself LLC, I contribute to maintaining, documenting, and enhancing software functionality. My role involves adapting and improving software to meet new challenges, constantly learning new technologies to maximize my performance and contributions.
 
-### Rater - TELUS Inc.
-- **Duration:** June 2023 - Current
-- **Responsibilities:**
-  - Analyzing and providing feedback on text, web pages, images, and other types of information for leading search engines.
-  - Reviewing the results returned in a specific search query and rating them in terms of relevance.
+## What I Do
 
-### Software Developer
-- **Duration:** January 2018 - Current
-- **Responsibilities:**
-  - Supported, maintained, documented, and enhanced software functionality.
-  - Learned new technologies and adopted new tools quickly to maximize performance and contributions.
-  - Adapted existing software to new purposes, improving performance and including new functionality.
-  - Converted user requirements into technical designs and developed scopes to guide project work.
-  - Embraced modern development and architectural paradigms to maximize software agility and scalability.
-  - Supported fellow development team with code reviews, brainstorming, and guidance.
-  - Accomplished project milestones and deliverables on time using Agile methodologies.
-  - Designed and developed software applications using programming languages and associated frameworks.
+My expertise spans a broad range of areas within software development, including data structures, algorithms, application development, and product management. I am well-versed in programming languages such as Python, C++, and Java, and have a particular interest in technology integration, product development, and project coordination. My skills extend to graphic design, 3D modeling with Blender, and creating special effects using Affinity Photo.
 
-## Education
+## Learning and Growth
 
-### Bachelor of Science (B.S.) - Computer Science
-- **Institution:** Maryville University, St. Louis, MO
-- **Graduation:** May 2024
-- **Coursework:** Python Development, Reinforcement Learning, Project Management, Artificial Intelligence
-- **Achievements:** Dean's List (Summer 2020, Fall 2020, Spring 2021, Summer 2022, Fall 2022, Summer 2023, Fall 2023), Member of National Honors Society
+Education is a key part of my growth in the tech field. I am on track to complete my Bachelor of Science in Computer Science, where my studies have encompassed Python development, reinforcement learning, project management, and artificial intelligence. I am also a certified Advanced Cyber Security specialist, which adds a unique dimension to my technical expertise.
 
-### Certification - Advanced Cyber Security
-- **Institution:** University of Phoenix, Phoenix, AZ
-- **Completion:** September 2019
+I am a proactive learner and an active member of the tech community, continually exploring new technologies and methodologies to enhance my skills and contribute meaningfully to my field.
