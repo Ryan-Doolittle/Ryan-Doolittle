@@ -12,6 +12,6 @@ My expertise spans a broad range of areas within software development, including
 
 ## Learning and Growth
 
-Education is a key part of my growth in the tech field. I am on track to complete my Bachelor of Science in Computer Science, where my studies have encompassed Python development, reinforcement learning, project management, and artificial intelligence. I am also a certified Advanced Cyber Security specialist, which adds a unique dimension to my technical expertise.
+Education is a key part of my growth in the tech field. I graduated with a Bachelor of Science in Computer Science, where my studies have encompassed Python development, reinforcement learning, project management, and artificial intelligence. I am also a certified Advanced Cyber Security specialist, which adds a unique dimension to my technical expertise.
 
 I am a proactive learner and an active member of the tech community, continually exploring new technologies and methodologies to enhance my skills and contribute meaningfully to my field.
